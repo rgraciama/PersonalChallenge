@@ -18,16 +18,18 @@ I begining this trip selecting my targets and spliting the efforts to achieve it
 | Friday    | 1.5 hours |
 | **Total** | **20 hours** |
 
-Every week in the repository is called Milestone.
+I usually have 20 hours per week to spend in my objectives.
+
+Every week in the repository is called Sprint.
 
 # 2th Step (How can I count the time scheduled to encapsule it in a Task/Issue?)
 
 To do it I decided to change the time in points like CodeTree App do.
 
-I used the factor 1 point is like 12 minutes, and 5p. are 1 hour.
+I used the factor 1 point = 12 minutes, and 5p. are 1 hour.
 Every ticket is valued using the Fibonacci rule.
 
-Using the time that I usually have every milestone the amount ascend to 110 points.
+A normal week have 100 points.
 
 EASY PEACE!
 
