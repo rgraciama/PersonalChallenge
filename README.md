@@ -22,7 +22,7 @@ I usually have 20 hours per week to spend in my objectives.
 
 Every week in the repository is called Sprint.
 
-# 2th Step (How can I count the time scheduled to encapsule it in a Task/Issue?)
+# 2nd Step (How can I count the time scheduled to encapsule it in a Task/Issue?)
 
 To do it I decided to change the time in points like CodeTree App do.
 
